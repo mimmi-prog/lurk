@@ -1,1 +1,5 @@
-lite prosjekt jeg lagde i dag. bare skrive lurk så filnavn.
+lite prosjekt jeg lagde i dag. 
+
+```
+lurk <filnavn>
+```
